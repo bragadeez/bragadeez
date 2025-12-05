@@ -5,10 +5,6 @@
   Building real-world AI systems with Deep Learning, Retrieval, and Model Optimization.
 </p>
 
----
-
-## About Me
-
 I'm an ML Engineer passionate about designing **practical, scalable, real-time AI systems**.  
 My expertise spans:
 
@@ -17,18 +13,6 @@ My expertise spans:
 - NLP - LLM apps, OCR pipelines, retrieval systems  
 - MLOps - containers, benchmarking, optimization, automation  
 - Deployment - real-world systems on cloud, edge devices, and web
-
-I enjoy solving applied AI problems, building production-ready pipelines, and making models interpretable using XAI.
-
----
-
-## Connect with Me
-
-- **GitHub:** github.com/bragadeez  
-- **LinkedIn:** linkedin.com/in/bragadeeshwaran-c  
-- **Email:** bragadeeshwaranc@gmail.com  
-
----
 
 <p align="center">
   <b>Always building. Always improving. Always learning.</b>
