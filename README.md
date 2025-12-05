@@ -13,20 +13,12 @@ I'm an ML Engineer passionate about designing **practical, scalable, real-time A
 My expertise spans:
 
 - Deep Learning (CNNs, Transformers, LLMs, RAG)  
-- Computer Vision — YOLO, classification, real-time detection  
-- NLP — LLM apps, OCR pipelines, retrieval systems  
-- MLOps — containers, benchmarking, optimization, automation  
-- Deployment — real-world systems on cloud, edge devices, and web
+- Computer Vision - YOLO, classification, real-time detection  
+- NLP - LLM apps, OCR pipelines, retrieval systems  
+- MLOps - containers, benchmarking, optimization, automation  
+- Deployment - real-world systems on cloud, edge devices, and web
 
 I enjoy solving applied AI problems, building production-ready pipelines, and making models interpretable using XAI.
-
----
-
-## Current Focus
-
-- Building **RAG + LLM-based applications**  
-- **MLOps** (CI/CD, benchmarking, scalable deployments)  
-- Preparing for **ML/AI internships** and **GATE AIML**
 
 ---
 
