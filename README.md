@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bragadeeshwaran 👋</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer · Computer Vision · NLP · LLMs · MLOps</b><br/>
+  <b>Machine Learning Engineer · Computer Vision · NLP · LLMs · MLOps · GenAI</b><br/>
   Building real-world AI systems with Deep Learning, Retrieval, and Model Optimization.
 </p>
 
